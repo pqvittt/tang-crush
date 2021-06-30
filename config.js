@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Cậu đây rồi, tớ nói nè!',
-    introDesc: Hôm nay anh học Toán hình
+    introDesc: Mấy nay anh học Toán hình
     Tròn vuông chẳng có
     Toàn hình bóng em
     Anh nói thật,
